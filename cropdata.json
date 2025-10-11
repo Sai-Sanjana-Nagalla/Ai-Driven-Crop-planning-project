@@ -1,0 +1,1183 @@
+[
+  {
+    "crop_name": "rice",
+    "ph_min": 5.5,
+    "ph_max": 7.0,
+    "water_consuming": "1200-1899mm",
+    "soil_types": [
+      "clay",
+      "slit",
+      "alluvial"
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "jagitial",
+      "nirmal",
+      "peddapalli",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "siddipet",
+      "jangaon",
+      "hanumakonda",
+      "warangal",
+      "mulugu",
+      "bhadradrikothagudem",
+      "khammam",
+      "mahabubabad",
+      "suryapet",
+      "nalgonda"
+    ]
+  },
+  {
+    "crop_name": "maize",
+    "ph_min": 5.5,
+    "ph_max": 7.5,
+    "water_consuming": "500-800mm",
+    "soil_types": [
+      "loamy",
+      ""
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "jagitial",
+      "nirmal",
+      "peddapalli",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "siddipet",
+      "jangaon",
+      "hanumakonda",
+      "warangal",
+      "mulugu",
+      "bhadradrikothagudem",
+      "khammam",
+      "mahabubabad",
+      "suryapet",
+      "nalgonda"
+    ]
+  },
+  {
+    "crop_name": "jowar",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "400-600mm",
+    "soil_types": [
+      "red",
+      "sandy",
+      "loam",
+      "black"
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "jagitial",
+      "nirmal",
+      "peddapalli",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "siddipet",
+      "jangaon",
+      "hanumakonda",
+      "warangal",
+      "mulugu",
+      "bhadradrikothagudem",
+      "khammam",
+      "mahabubabad",
+      "suryapet",
+      "nalgonda"
+    ]
+  },
+  {
+    "crop_name": "bajra",
+    "ph_min": 6.0,
+    "ph_max": 8.5,
+    "water_consuming": "250 - 400mm",
+    "soil_types": [
+      "sandy",
+      "loam",
+      "black",
+      "red"
+    ],
+    "districts": [
+      "sangareddy",
+      "medak",
+      "siddipet",
+      "jangaon",
+      "hanumakonda",
+      "warangal",
+      "mulugu",
+      "bhadradrikothagudem",
+      "khammam",
+      "mahabubabad",
+      "suryapet",
+      "nalgonda"
+    ]
+  },
+  {
+    "crop_name": "ragi",
+    "ph_min": 4.5,
+    "ph_max": 7.5,
+    "water_consuming": "350-500mm",
+    "soil_types": [
+      "red",
+      "loam",
+      "laterate",
+      "black",
+      "sandy"
+    ],
+    "districts": [
+      "mahabubnagar",
+      "nalgonda",
+      "khammam",
+      "mulugu",
+      "bhadradrikothagudem",
+      "nagarkurnool",
+      "wanaparthy",
+      "andpartsofwarangal"
+    ]
+  },
+  {
+    "crop_name": "wheat",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "450-600mm",
+    "soil_types": [
+      "loam",
+      "clay",
+      "alluvial"
+    ],
+    "districts": [
+      "nalgonda",
+      "khammam",
+      "mahabubnagar",
+      "adilabad",
+      "nizamabad",
+      "andkarimnagar"
+    ]
+  },
+  {
+    "crop_name": "ground nut",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "500-700mm",
+    "soil_types": [
+      "sandy",
+      "loam",
+      "red"
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "jagitial",
+      "nirmal",
+      "peddapalli",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "siddipet",
+      "jangaon",
+      "hanumakonda",
+      "warangal",
+      "mulugu",
+      "bhadradrikothagudem",
+      "khammam",
+      "mahabubabad",
+      "suryapet",
+      "nalgonda"
+    ]
+  },
+  {
+    "crop_name": "soyabean",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "450-700mm",
+    "soil_types": [
+      "black",
+      "loamy",
+      "samdy"
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "jagitial",
+      "nirmal",
+      "peddapalli",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "siddipet",
+      "jangaon",
+      "hanumakonda",
+      "warangal",
+      "mulugu",
+      "bhadradrikothagudem",
+      "khammam",
+      "mahabubabad",
+      "suryapet",
+      "nalgonda"
+    ]
+  },
+  {
+    "crop_name": "sunflower",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "500-600mm",
+    "soil_types": [
+      "loamy",
+      "sandy",
+      "black",
+      "red"
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "karimnagar",
+      "rajannasircilla",
+      "medak",
+      "sangareddy",
+      "nalgonda",
+      "mahabubnagar",
+      "wanaparthy",
+      "nagarkurnool",
+      "khammam",
+      "bhadradrikothagudem"
+    ]
+  },
+  {
+    "crop_name": "sesame",
+    "ph_min": 5.5,
+    "ph_max": 8.0,
+    "water_consuming": "300-500mm",
+    "soil_types": [
+      "sanddy",
+      "loamy",
+      "re",
+      "black"
+    ],
+    "districts": [
+      "mahabubnagar",
+      "nalgonda",
+      "nagarkurnool",
+      "wanaparthy",
+      "khammam",
+      "bhadradrikothagudem",
+      "medak",
+      "sangareddy",
+      "kamareddy",
+      "warangal",
+      "jangaon"
+    ]
+  },
+  {
+    "crop_name": "castor",
+    "ph_min": 6.0,
+    "ph_max": 8.0,
+    "water_consuming": "500-700mm",
+    "soil_types": [
+      "sandy",
+      "red",
+      "black"
+    ],
+    "districts": [
+      "mahabubnagar",
+      "nalgonda",
+      "wanaparthy",
+      "nagarkurnool",
+      "khammam",
+      "bhadradrikothagudem",
+      "sangareddy",
+      "kamareddy",
+      "medak",
+      "warangal",
+      "jangaon"
+    ]
+  },
+  {
+    "crop_name": "redgram",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "350\u2013600 mm",
+    "soil_types": [
+      "loamy",
+      "redsoils",
+      "sandy",
+      "loam",
+      "andblacksoils"
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "jagitial",
+      "nirmal",
+      "peddapalli",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "siddipet",
+      "jangaon",
+      "hanumakonda",
+      "warangal",
+      "mulugu",
+      "bhadradrikothagudem",
+      "khammam",
+      "mahabubabad",
+      "suryapet",
+      "nalgonda"
+    ]
+  },
+  {
+    "crop_name": "bengalgram",
+    "ph_min": 6.0,
+    "ph_max": 8.0,
+    "water_consuming": "250\u2013400 mm",
+    "soil_types": [
+      "blackcottonsoils",
+      "loamysoils",
+      "andsandyloams\n\n"
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "jagitial",
+      "nirmal",
+      "peddapalli",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "siddipet",
+      "jangaon",
+      "hanumakonda",
+      "warangal",
+      "mulugu",
+      "bhadradrikothagudem",
+      "khammam",
+      "mahabubabad",
+      "suryapet",
+      "nalgonda"
+    ]
+  },
+  {
+    "crop_name": "greengram",
+    "ph_min": 6.2,
+    "ph_max": 7.5,
+    "water_consuming": "300\u2013400 mm",
+    "soil_types": [
+      "well-drainedsandyloam",
+      "loam",
+      "andblacksoils"
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "jagitial",
+      "nirmal",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "sangareddy",
+      "mahabubnagar",
+      "nagarkurnool",
+      "wanaparthy",
+      "khammam",
+      "warangal",
+      "nalgonda",
+      "suryapet"
+    ]
+  },
+  {
+    "crop_name": "blackgram",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "350\u2013400 mm",
+    "soil_types": [
+      "sandy",
+      "loam",
+      "black"
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "karimnagar",
+      "nirmal",
+      "rajannasircilla",
+      "jangaon",
+      "mahabubnagar",
+      "wanaparthy",
+      "nagarkurnool",
+      "medak",
+      "kamareddy",
+      "sangareddy",
+      "khammam",
+      "warangal",
+      "nalgonda",
+      "suryapet"
+    ]
+  },
+  {
+    "crop_name": "horsegram",
+    "ph_min": 5.5,
+    "ph_max": 7.5,
+    "water_consuming": "200\u2013300 mm",
+    "soil_types": [
+      "red",
+      "sandy",
+      "black",
+      "latrate"
+    ],
+    "districts": [
+      "mahabubnagar",
+      "wanaparthy",
+      "nagarkurnool",
+      "nalgonda",
+      "khammam",
+      "bhadradrikothagudem",
+      "adilabad",
+      "jogulambagadwal",
+      "narayanpet"
+    ]
+  },
+  {
+    "crop_name": "tomato",
+    "ph_min": 6.0,
+    "ph_max": 7.0,
+    "water_consuming": "600\u2013800 mm",
+    "soil_types": [
+      "sandy",
+      "red",
+      "loam",
+      "black"
+    ],
+    "districts": [
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "jangaon",
+      "hanumakonda",
+      "karimnagar",
+      "rajannasircilla",
+      "peddapalli",
+      "khammam",
+      "bhadradrikothagudem",
+      "mahabubabad",
+      "mulugu",
+      "sangareddy",
+      "kamareddy",
+      "adilabad",
+      "nizamabad",
+      "jagitial",
+      "nirmal"
+    ]
+  },
+  {
+    "crop_name": "chilli",
+    "ph_min": 6.0,
+    "ph_max": 7.0,
+    "water_consuming": "500\u2013700 mm",
+    "soil_types": [
+      "sandy",
+      "red",
+      "loam",
+      "black"
+    ],
+    "districts": [
+      "adilabad",
+      "nizamabad",
+      "jagitial",
+      "nirmal",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "siddipet",
+      "jangaon",
+      "hanumakonda",
+      "warangal",
+      "mulugu",
+      "bhadradrikothagudem",
+      "khammam",
+      "mahabubabad",
+      "nalgonda",
+      "suryapet"
+    ]
+  },
+  {
+    "crop_name": "brinjal",
+    "ph_min": 5.5,
+    "ph_max": 7.5,
+    "water_consuming": "500\u2013700 mm ",
+    "soil_types": [
+      "sandy",
+      "red",
+      "clay",
+      "black"
+    ],
+    "districts": [
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "khammam",
+      "hanumakonda",
+      "mahabubabad",
+      "karimnagar",
+      "rajannasircilla",
+      "medak",
+      "sangareddy",
+      "kamareddy",
+      "nizamabad",
+      "adilabad",
+      "jagitial",
+      "nirmal"
+    ]
+  },
+  {
+    "crop_name": "okra",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "400-600mm",
+    "soil_types": [
+      "sandy",
+      "red",
+      "black"
+    ],
+    "districts": [
+      "warangal",
+      "nalgonda",
+      "suryapet",
+      "khammam",
+      "hanumakonda",
+      "karimnagar",
+      "rajannasircilla",
+      "mahabubabad",
+      "nizamabad",
+      "kamareddy",
+      "medak",
+      "sangareddy",
+      "jagitial",
+      "adilabad",
+      "nirmal",
+      "mahabubnagar"
+    ]
+  },
+  {
+    "crop_name": "cabbage",
+    "ph_min": 6.0,
+    "ph_max": 6.8,
+    "water_consuming": "500\u2013700mm",
+    "soil_types": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "districts": [
+      "rangareddy",
+      "medchal\u2013malkajgiri",
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "hanumakonda",
+      "karimnagar",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "khammam",
+      "mahabubnagar",
+      "nizamabad"
+    ]
+  },
+  {
+    "crop_name": "cauliflowr",
+    "ph_min": 6.0,
+    "ph_max": 7.0,
+    "water_consuming": "500\u2013700mm",
+    "soil_types": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "districts": [
+      "rangareddy",
+      "medchal\u2013malkajgiri",
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "hanumakonda",
+      "sangareddy",
+      "medak",
+      "kamareddy",
+      "khammam",
+      "mahabubnagar",
+      "karimnagar",
+      "nizamabad"
+    ]
+  },
+  {
+    "crop_name": "gaurds",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "500-800mm",
+    "soil_types": [
+      "sandy",
+      "loam",
+      "red",
+      "black"
+    ],
+    "districts": [
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "khammam",
+      "hanumakonda",
+      "karimnagar",
+      "rajannasircilla",
+      "sangareddy",
+      "medak",
+      "kamareddy",
+      "nizamabad",
+      "adilabad",
+      "jagitial",
+      "nirmal",
+      "rangareddy",
+      "medchal\u2013malkajgiri",
+      "mahabubnagar"
+    ]
+  },
+  {
+    "crop_name": "onion",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "350-550mm",
+    "soil_types": [
+      "loamy",
+      "sandy",
+      "alluvial"
+    ],
+    "districts": [
+      "nizamabad",
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "karimnagar",
+      "hanumakonda",
+      "rajannasircilla",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "mahabubnagar",
+      "khammam",
+      "adilabad",
+      "jagitial",
+      "nirmal",
+      "rangareddy",
+      "medchal\u2013malkajgiri"
+    ]
+  },
+  {
+    "crop_name": "potato",
+    "ph_min": 5.0,
+    "ph_max": 6.5,
+    "water_consuming": "500\u2013700mm",
+    "soil_types": [
+      "loamy",
+      "sandy",
+      "alluvial"
+    ],
+    "districts": [
+      "medchal\u2013malkajgiri",
+      "rangareddy",
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "hanumakonda",
+      "sangareddy",
+      "kamareddy",
+      "khammam",
+      "karimnagar",
+      "mahabubnagar",
+      "nizamabad",
+      "adilabad",
+      "jagitial",
+      "nirmal"
+    ]
+  },
+  {
+    "crop_name": "carrot",
+    "ph_min": 6.0,
+    "ph_max": 6.8,
+    "water_consuming": "300\u2013500 mm",
+    "soil_types": [
+      "sandy",
+      "loam"
+    ],
+    "districts": [
+      "rangareddy",
+      "medchal\u2013malkajgiri",
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "hanumakonda",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "khammam",
+      "mahabubnagar",
+      "karimnagar",
+      "nizamabad",
+      "jagitial",
+      "adilabad",
+      "nirmal"
+    ]
+  },
+  {
+    "crop_name": "beans",
+    "ph_min": 5.5,
+    "ph_max": 7.0,
+    "water_consuming": "300\u2013500 mm",
+    "soil_types": [
+      "sandy",
+      "loam",
+      "black"
+    ],
+    "districts": [
+      "rangareddy",
+      "medchal\u2013malkajgiri",
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "hanumakonda",
+      "khammam",
+      "sangareddy",
+      "kamareddy",
+      "mahabubnagar",
+      "karimnagar",
+      "nizamabad",
+      "jagitial",
+      "adilabad",
+      "nirmal"
+    ]
+  },
+  {
+    "crop_name": "mango",
+    "ph_min": 5.5,
+    "ph_max": 7.5,
+    "water_consuming": "1,200\u20131,600 mm",
+    "soil_types": [
+      "loamy",
+      "red",
+      "black",
+      "lateritic"
+    ],
+    "districts": [
+      "khammam",
+      "mahabubnagar",
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "hanumakonda",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "nizamabad",
+      "jagtial",
+      "adilabad",
+      "nirmal",
+      "siddipet",
+      "sangareddy",
+      "vikarabad"
+    ]
+  },
+  {
+    "crop_name": "cashew",
+    "ph_min": 5.5,
+    "ph_max": 6.5,
+    "water_consuming": "600\u20131,200 mm",
+    "soil_types": [
+      "red",
+      "lateritic"
+    ],
+    "districts": [
+      "khammam",
+      "bhadradrikothagudem",
+      "mahabubabad",
+      "suryapet",
+      "nalgonda",
+      "warangal",
+      "mulugu",
+      "jayashankarbhupalpally",
+      "mahabubnagar",
+      "nagarkurnool"
+    ]
+  },
+  {
+    "crop_name": "banana",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "1,800\u20132,200 mm",
+    "soil_types": [
+      "loamy",
+      "alluvial",
+      "red",
+      "black"
+    ],
+    "districts": [
+      "khammam",
+      "bhadradrikothagudem",
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "hanumakonda",
+      "mahabubnagar",
+      "jogulambagadwal",
+      "nizamabad",
+      "karimnagar",
+      "rajannasircilla",
+      "kamareddy",
+      "adilabad",
+      "jagtial",
+      "medak",
+      "sangareddy"
+    ]
+  },
+  {
+    "crop_name": "guava",
+    "ph_min": 5.0,
+    "ph_max": 7.5,
+    "water_consuming": "800\u20131,200 mm",
+    "soil_types": [
+      "sandy",
+      "red",
+      "alluvial",
+      "black"
+    ],
+    "districts": [
+      "rangareddy",
+      "mahabubnagar",
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "khammam",
+      "karimnagar",
+      "rajannasircilla",
+      "nizamabad",
+      "kamareddy",
+      "sangareddy",
+      "medak",
+      "adilabad",
+      "jagtial",
+      "nirmal",
+      "vikarabad"
+    ]
+  },
+  {
+    "crop_name": "papaya",
+    "ph_min": 6.0,
+    "ph_max": 6.5,
+    "water_consuming": "1,500\u20132,000 mm",
+    "soil_types": [
+      "sandy",
+      "red",
+      "alluvial"
+    ],
+    "districts": [
+      "rangareddy",
+      "nalgonda",
+      "suryapet",
+      "warangal",
+      "hanumakonda",
+      "karimnagar",
+      "medchal",
+      "sangareddy",
+      "nizamabad",
+      "kamareddy",
+      "mahabubnagar",
+      "khammam",
+      "adilabad",
+      "jagtial"
+    ]
+  },
+  {
+    "crop_name": "mosambi",
+    "ph_min": 6.0,
+    "ph_max": 8.0,
+    "water_consuming": "900\u20131,200 mm",
+    "soil_types": [
+      "loamy",
+      "sandy",
+      "alluvial"
+    ],
+    "districts": [
+      "nalgonda",
+      "suryapet",
+      "khammam",
+      "bhadradrikothagudem",
+      "mahabubabad",
+      "warangal",
+      "nizamabad",
+      "kamareddy",
+      "karimnagar",
+      "jagtial",
+      "rajannasircilla",
+      "sangareddy",
+      "vikarabad",
+      "medak",
+      "mahabubnagar",
+      "adilabad"
+    ]
+  },
+  {
+    "crop_name": "promaganate",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "500\u2013800 mm",
+    "soil_types": [
+      "loamy",
+      "sandy",
+      "black"
+    ],
+    "districts": [
+      "mahabubnagar",
+      "wanaparthy",
+      "nagarkurnool",
+      "vikarabad",
+      "sangareddy",
+      "rangareddy",
+      "nalgonda",
+      "suryapet",
+      "khammam",
+      "warangal",
+      "karimnagar",
+      "rajannasircilla",
+      "medak",
+      "kamareddy",
+      "nizamabad",
+      "jagtial",
+      "adilabad",
+      "mancherial"
+    ]
+  },
+  {
+    "crop_name": "sapota",
+    "ph_min": 6.0,
+    "ph_max": 8.0,
+    "water_consuming": "1,000\u20131,250 mm",
+    "soil_types": [
+      "red",
+      "alluvial",
+      "black",
+      "lateritic"
+    ],
+    "districts": [
+      "rangareddy",
+      "vikarabad",
+      "sangareddy",
+      "mahabubnagar",
+      "wanaparthy",
+      "nagarkurnool",
+      "nalgonda",
+      "suryapet",
+      "khammam",
+      "warangal",
+      "karimnagar",
+      "rajannasircilla",
+      "nizamabad",
+      "kamareddy",
+      "adilabad",
+      "jagtial"
+    ]
+  },
+  {
+    "crop_name": "watermelon",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "400\u2013600 mm",
+    "soil_types": [
+      "sandy",
+      "alluvial",
+      "red",
+      "loamy"
+    ],
+    "districts": [
+      "nalgonda",
+      "suryapet",
+      "mahabubnagar",
+      "nagarkurnool",
+      "wanaparthy",
+      "vikarabad",
+      "sangareddy",
+      "rangareddy",
+      "karimnagar",
+      "jagtial",
+      "khammam",
+      "bhadradrikothagudem",
+      "nizamabad",
+      "kamareddy",
+      "adilabad",
+      "mancherial"
+    ]
+  },
+  {
+    "crop_name": "muskmelon",
+    "ph_min": 6.0,
+    "ph_max": 7.5,
+    "water_consuming": "300 -500 mm",
+    "soil_types": [
+      "sandy",
+      "loam",
+      "red",
+      "alluvial"
+    ],
+    "districts": [
+      "mahabubnagar",
+      "wanaparthy",
+      "nagarkurnool",
+      "nalgonda",
+      "suryapet",
+      "vikarabad",
+      "sangareddy",
+      "rangareddy",
+      "medak",
+      "karimnagar",
+      "jagtial",
+      "nizamabad",
+      "kamareddy",
+      "khammam",
+      "adilabad"
+    ]
+  },
+  {
+    "crop_name": "lemon",
+    "ph_min": 5.5,
+    "ph_max": 7.5,
+    "water_consuming": "900\u20131,200 mm",
+    "soil_types": [
+      "sandy",
+      "loam",
+      "red",
+      "black"
+    ],
+    "districts": [
+      "nalgonda",
+      "suryapet",
+      "mahabubnagar",
+      "wanaparthy",
+      "nagarkurnool",
+      "vikarabad",
+      "sangareddy",
+      "rangareddy",
+      "khammam",
+      "warangal",
+      "karimnagar",
+      "kamareddy",
+      "nizamabad",
+      "jagtial",
+      "adilabad",
+      "mancherial"
+    ]
+  },
+  {
+    "crop_name": "turmeric",
+    "ph_min": 5.5,
+    "ph_max": 7.0,
+    "water_consuming": "1,200\u20131,500 mm",
+    "soil_types": [
+      "loamy",
+      "red",
+      "alluvial",
+      "black"
+    ],
+    "districts": [
+      "nizamabad",
+      "nirmal",
+      "jagtial",
+      "karimnagar",
+      "warangal(rural)",
+      "mahabubabad",
+      "bhadradrikothagudem",
+      "khammam",
+      "adilabad",
+      "mancherial",
+      "kamareddy",
+      "medak"
+    ]
+  },
+  {
+    "crop_name": "cotton",
+    "ph_min": 6.0,
+    "ph_max": 8.0,
+    "water_consuming": "600\u20131,200 mm",
+    "soil_types": [
+      "loamy",
+      "red",
+      "alluvial",
+      "black"
+    ],
+    "districts": [
+      "adilabad",
+      "nirmal",
+      "mancherial",
+      "nizamabad",
+      "kamareddy",
+      "karimnagar",
+      "peddapalli",
+      "jagtial",
+      "rajannasircilla",
+      "warangal(urban&rural)",
+      "mahabubabad",
+      "khammam",
+      "nalgonda",
+      "suryapet",
+      "mahabubnagar",
+      "wanaparthy",
+      "vikarabad",
+      "sangareddy",
+      "medak"
+    ]
+  },
+  {
+    "crop_name": "sugarcane",
+    "ph_min": 6.0,
+    "ph_max": 8.0,
+    "water_consuming": "1,500 \u2013 2,500 mm",
+    "soil_types": [
+      "black",
+      "alluvial",
+      "sandy",
+      "red",
+      "loam"
+    ],
+    "districts": [
+      "nizamabad",
+      "kamareddy",
+      "nalgonda",
+      "suryapet",
+      "medak",
+      "sangareddy",
+      "karimnagar",
+      "warangal",
+      "khammam",
+      "bhadradrikothagudem",
+      "adilabad",
+      "mahabubnagar",
+      "wanaparthy"
+    ]
+  }
+]
